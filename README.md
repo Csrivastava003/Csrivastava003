@@ -19,7 +19,7 @@
 <p align="center">
 <a href="mailto:chiragsrivastava18@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/gmail.png"/></a>
 	<a href="https://github.com/Csrivastava003/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/github.png"/></a>
-	<a href="www.linkedin.com/in/chiragsrivastava/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/></a>
+	<a href="https://www.linkedin.com/in/chiragsrivastava/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/chirag.srivastava.7906"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/_c_h_i_r_a__g"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/instagram.png"/></a>
 	<a href="https://discordapp.com/users/788697274728841226/"><img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/discord.png"/></a>
