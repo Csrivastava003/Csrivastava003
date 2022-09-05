@@ -25,10 +25,10 @@
 	<a href="https://discordapp.com/users/788697274728841226/"><img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/discord.png"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csrivastava003&show_icons=true&locale=en&layout=compact" alt="csrivastava003" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csrivastava003&show_icons=true&locale=en" alt="csrivastava003" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csrivastava003&show_icons=true&locale=en&layout=compact" alt="csrivastava003" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csrivastava003&show_icons=true&locale=en" alt="csrivastava003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csrivastava003&" alt="csrivastava003" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csrivastava003&" alt="csrivastava003" /></p>
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/Csrivastava003/Csrivastava003/blob/output/github-contribution-grid-snake.svg)
