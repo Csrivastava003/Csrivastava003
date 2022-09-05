@@ -30,4 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csrivastava003&" alt="csrivastava003" /></p>
 
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/Csrivastava003/Csrivastava003/blob/output/github-contribution-grid-snake.svg)
+
 
